@@ -1,0 +1,37 @@
+BFS - Nodo Seleccionado CALL
+Josue Gabriel Sumare Uscca
+
+Paso 1
+frontier = {PUN }
+reached = {PUN }
+------------------------------------------------------------------------------
+Paso 2
+frontier = {CUZ AYA }
+reached = {PUN CUZ AYA }
+------------------------------------------------------------------------------
+Paso 3
+frontier = {AYA TRUJ AQP }
+reached = {PUN CUZ AYA TRUJ AQP }
+------------------------------------------------------------------------------
+Paso 4
+frontier = {TRUJ AQP APUR ICA }
+reached = {PUN CUZ AYA TRUJ AQP APUR ICA }
+------------------------------------------------------------------------------
+Paso 5
+frontier = {AQP APUR ICA LIM CAJ }
+reached = {PUN CUZ AYA TRUJ AQP APUR ICA LIM CAJ }
+------------------------------------------------------------------------------
+Paso 6
+frontier = {APUR ICA LIM CAJ MDD TUMB }
+reached = {PUN CUZ AYA TRUJ AQP APUR ICA LIM CAJ MDD TUMB }
+------------------------------------------------------------------------------
+Paso 7
+frontier = {ICA LIM CAJ MDD TUMB PUC UCA }
+reached = {PUN CUZ AYA TRUJ AQP APUR ICA LIM CAJ MDD TUMB PUC UCA }
+------------------------------------------------------------------------------
+Paso 8
+frontier = {LIM CAJ MDD TUMB PUC UCA CHI SMP }
+reached = {PUN CUZ AYA TRUJ AQP APUR ICA LIM CAJ MDD TUMB PUC UCA CHI SMP }
+------------------------------------------------------------------------------
+
+LIM->CALL
